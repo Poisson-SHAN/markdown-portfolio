@@ -1,0 +1,6 @@
+- Apple
+- Paypal
+- Tesla
+- Google
+- Facebook
+  - instragram
